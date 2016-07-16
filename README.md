@@ -8,7 +8,7 @@ Head over to [songlink](http://songl.ink) to create a link for a song you'd like
 
 - Node.js/Express
 - React.js
-- Redux
+- Reduxsdfasdfasldfkjas'kdjfka'skdfkasd;fkks';dlkf
 - Webpack
 - Sass
 - Cloudfront CDN
